@@ -3,15 +3,13 @@
 
 The IIS Short Name Scanner is a set of scripts written in Go that allows you to scan a target website for the presence of short names in IIS (Internet Information Services) URLs. It can help identify potential security vulnerabilities related to IIS short name disclosure.
 
-/ _ () () | | | | | |
-/ /\ _ __ _ _ __ __ _ ___ | | | | __ _ | |
-| _ | ' | | ' \ / |/ _ \| __| | __/ _ / __| __|
-| | | | |) | | | | | (| | () | |_ | | | (| _ \ |_
-_| || .__/||| ||_, |___/ _| || _,|/_|
-| | __/ |
-|| |_/
+    _    _     ___  _  _    _  _____  ___  ___  _  _  ___ 
+   /_\  | |   | _ \| || |  /_\|_   _|| __|/ __|| || |/ __|
+  / _ \ | |__ |  _/| __ | / _ \ | |  | _|| (__ | __ |\__ \
+ /_/ \_\|____||_|  |_||_|/_/ \_\|_|  |___|\___||_||_||___/
+                                                          
 
-
+                                                                        
 ### Features
 
 - **Path Enumeration**: The `path_enumeration.go` script generates a list of paths containing common IIS short names and saves them to a file (`paths.txt` by default).

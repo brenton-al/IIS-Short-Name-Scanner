@@ -1,12 +1,6 @@
-
 ## IIS Short Name Scanner
 
 The IIS Short Name Scanner is a set of scripts written in Go that allows you to scan a target website for the presence of short names in IIS (Internet Information Services) URLs. It can help identify potential security vulnerabilities related to IIS short name disclosure.
-
-    _    _     ___  _  _    _  _____  ___  ___  _  _  ___ 
-   /_\  | |   | _ \| || |  /_\|_   _|| __|/ __|| || |/ __|
-  / _ \ | |__ |  _/| __ | / _ \ | |  | _|| (__ | __ |\__ \
- /_/ \_\|____||_|  |_||_|/_/ \_\|_|  |___|\___||_||_||___/
                                                           
 
                                                                         
